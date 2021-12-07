@@ -13,3 +13,6 @@ An android app that makes color-palette from choosen image.</br>
 ## **Icon**
 ![icon](app/src/main/res/mipmap-xxxhdpi/icon.png)
 
+# **Apk download**
+[app-debug.apk](src/app-debug.apk?raw=true)
+
